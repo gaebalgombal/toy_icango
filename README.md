@@ -4,7 +4,7 @@
 ## 프로젝트 요약
 - 교통 약자를 위한 지하철 이동경로 안내 서비스
 
-##'갈 수 있어요'란?
+## '갈 수 있어요'란?
 - 2년 전, 십자인대 파열로 목발을 짚고 다닐 때, 광화문 역에서 엘레베이터를 찾기 위해 30분간 헤매여야 했습니다.
 아무리 인터넷을 찾아도 지하철 역에 엘레베이터가 있는지, 어디 있는지 도저히 찾을 수가 없었습니다.
 서울의 중심의 중심이라 할 수 있는 광화문에서조차 말이죠.
@@ -24,8 +24,7 @@
 Front - 황윤성, 김명준, 오선주, 김민기
 Back - 김정연
 
-# 적용 기술 및 구현 기능
-## 기술 스택
+# 기술 스택
 - Front-End : React, React Router, Sass, Dompurify, React Daum Postcode, JavaScript, CRA
 - Back-End : Python, Django, My SQL
 - Communication Tool : Git, GitHub, Slack
